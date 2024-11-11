@@ -1,0 +1,14 @@
+D:\EraaSoft Tasks\assignmentOne\assignmentOne\bin\Debug\net8.0\assignmentOne.exe
+D:\EraaSoft Tasks\assignmentOne\assignmentOne\bin\Debug\net8.0\assignmentOne.deps.json
+D:\EraaSoft Tasks\assignmentOne\assignmentOne\bin\Debug\net8.0\assignmentOne.runtimeconfig.json
+D:\EraaSoft Tasks\assignmentOne\assignmentOne\bin\Debug\net8.0\assignmentOne.dll
+D:\EraaSoft Tasks\assignmentOne\assignmentOne\bin\Debug\net8.0\assignmentOne.pdb
+D:\EraaSoft Tasks\assignmentOne\assignmentOne\obj\Debug\net8.0\assignmentOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\EraaSoft Tasks\assignmentOne\assignmentOne\obj\Debug\net8.0\assignmentOne.AssemblyInfoInputs.cache
+D:\EraaSoft Tasks\assignmentOne\assignmentOne\obj\Debug\net8.0\assignmentOne.AssemblyInfo.cs
+D:\EraaSoft Tasks\assignmentOne\assignmentOne\obj\Debug\net8.0\assignmentOne.csproj.CoreCompileInputs.cache
+D:\EraaSoft Tasks\assignmentOne\assignmentOne\obj\Debug\net8.0\assignmentOne.dll
+D:\EraaSoft Tasks\assignmentOne\assignmentOne\obj\Debug\net8.0\refint\assignmentOne.dll
+D:\EraaSoft Tasks\assignmentOne\assignmentOne\obj\Debug\net8.0\assignmentOne.pdb
+D:\EraaSoft Tasks\assignmentOne\assignmentOne\obj\Debug\net8.0\assignmentOne.genruntimeconfig.cache
+D:\EraaSoft Tasks\assignmentOne\assignmentOne\obj\Debug\net8.0\ref\assignmentOne.dll
